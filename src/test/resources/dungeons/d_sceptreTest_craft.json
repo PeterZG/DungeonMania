@@ -1,0 +1,31 @@
+{
+  "entities": [
+    {
+      "x": 1,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "type": "wood"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "type": "sun_stone"
+    },
+    {
+      "type": "key",
+      "x": 1,
+      "y": 4,
+      "key": 1
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "type": "exit"
+    }
+  ],
+  "goal-condition": {"goal": "exit"}
+}
