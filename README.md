@@ -1,7 +1,7 @@
 
 # Dungeon Mania
 
-Dungeon Mania is an interactive simulation game that showcases advanced programming techniques such as modular design, object-oriented principles, and web-based interactions. This project was developed to fulfill the requirements of COMP2511 Assignment 2.
+Dungeon Mania is an interactive dungeon adventure game developed to meet the gaming industry's demand for high freedom and strategic gameplay. It showcases advanced programming techniques, including modular design, object-oriented principles, and web-based interactions. The game supports dynamic level generation and a multi-ending system, ensuring flexibility and scalability. Game state is managed through the DungeonManiaController, while Dijkstra’s algorithm enhances enemy AI pathfinding. Additionally, the Spark framework is used to provide a RESTful API for web-based interaction and control.
 
 ## Features
 
@@ -119,6 +119,7 @@ Run the test suite to verify game logic and interactions:
 3. **Web-Based UI**:
    - Develop a graphical frontend for an immersive gaming experience.
 
+
 ## Acknowledgments
 
-This project was developed as part of COMP2511 at UNSW, showcasing advanced software engineering techniques.
+This project was developed to showcase advanced software engineering techniques, highlighting modular design, object-oriented principles, and dynamic game mechanics.
