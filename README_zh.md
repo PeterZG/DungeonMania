@@ -76,13 +76,6 @@ src/
 使用提供的 Gradle 构建工具编译项目：
 ```bash
 ./gradlew build
-
-## 使用方法
-
-### 编译
-使用提供的 Gradle 构建工具编译项目：
-```bash
-./gradlew build
 ```
 
 ### 运行游戏
