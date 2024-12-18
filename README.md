@@ -122,4 +122,4 @@ Run the test suite to verify game logic and interactions:
 
 ## Acknowledgments
 
-This project was developed to showcase advanced software engineering techniques, highlighting modular design, object-oriented principles, and dynamic game mechanics.
+This project was developed to showcase common software engineering techniques, highlighting modular design, object-oriented principles, and dynamic game mechanics.
